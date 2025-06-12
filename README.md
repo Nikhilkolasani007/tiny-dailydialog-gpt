@@ -2,6 +2,8 @@
 
 This is my **first custom-trained AI text generation model**, built using the Hugging Face `transformers` library and trained on the `daily_dialog` dataset in **Google Colab**.
 
+https://huggingface.co/NKOO7/tiny-dailydialog-gpt/tree/main
+
 📝 **Note:**  
 This is an experimental project — the model might not generate perfect results yet. I'm still improving it and learning through the process!
 
